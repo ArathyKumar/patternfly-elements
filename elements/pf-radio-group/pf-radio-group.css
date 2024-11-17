@@ -1,3 +1,19 @@
 :host {
   display: block;
 }
+
+.pf-c-radio-group {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.pf-c-radio {
+  padding-right: 0.5rem;
+}
+
+.pf-c-radio--label {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+}
